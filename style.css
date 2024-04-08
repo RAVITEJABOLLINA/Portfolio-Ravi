@@ -1,0 +1,65 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f93098c5;
+}
+
+header {
+    background-color: rgb(12, 201, 218);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #020007;
+}
+
+h2 {
+    color: #2ceb0a;
+}
+
+h3 {
+    color: #087b6f;
+}
+
+p {
+    line-height: 1.6;
+    color: #000000;
+}
+
+.contact{
+    margin-top: 20px;
+
+}
+
+.skills {
+
+    margin-top: 20px;
+}
+
+.languages {
+    margin-bottom: 20px;
+}
+
+.internships {
+    margin-bottom: 20px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #000000;
+    color: white;
+}
